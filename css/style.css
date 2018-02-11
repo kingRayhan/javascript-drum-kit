@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script");
 html,
 body {
-  background-image: url(https://images.unsplash.com/photo-1503506584117-5ed92741077a?ixlib=rb-0.3.5…EyMDd9&s=4ff8946…&auto=format&fit=crop&w=1350&q=80);
+  background-image: url(../images/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;

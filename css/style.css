@@ -20,7 +20,11 @@ body {
   padding-top: 175px;
   padding-bottom: 25px;
 }
-
+.note{
+    color: white;
+    font-size: 25px;
+    text-transform: uppercase;
+}
 .keys {
   width: 1000px;
   margin: auto;

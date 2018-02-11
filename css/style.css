@@ -41,6 +41,7 @@ body {
   padding: 10px 0;
   border-radius: 5px;
   transition: all .2s;
+  cursor: pointer;
 }
 .key kbd {
   font-size: 36px;
